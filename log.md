@@ -13,3 +13,11 @@ Spent today getting my Github repository and my blog set up so I can track my pr
 3. JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
 4. Work on my personal website, lecari.co.uk, and create a custom theme for it (WordPress)
 5. Complete a book download page using HTML, CSS and JavaScript (and email marketing software API) for my Apprenticeship evidence
+
+### Day 1 & 2: 11th and 12th March 2019
+
+**Today's Progess**: I spent today and yesterday continuing on with the Responsive Web Design Certification in FreeCodeCamp - going through the Accessibility section.
+
+**Thoughts**: Making websites accessible and promoting equality and fairness are really important to me. A lot of this is familiar to me through the Treehouse courses I have completed previously (such as adding markup for header, footer, main, and article, and adding alt tags) and the training session that we did as part of our Apprenticeship programme with Andrew Macpherson. But I have learnt some new things that I can apply to my work in future.  
+
+**Link to blog**: [Day 1 & 2](http://www.clairescoding.co.uk/100daysofcode/day-1-2/)
