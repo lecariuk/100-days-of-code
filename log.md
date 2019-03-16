@@ -21,3 +21,20 @@ Spent today getting my Github repository and my blog set up so I can track my pr
 **Thoughts**: Making websites accessible and promoting equality and fairness are really important to me. A lot of this is familiar to me through the Treehouse courses I have completed previously (such as adding markup for header, footer, main, and article, and adding alt tags) and the training session that we did as part of our Apprenticeship programme with Andrew Macpherson. But I have learnt some new things that I can apply to my work in future.  
 
 **Link to blog**: [Day 1 & 2](http://www.clairescoding.co.uk/100daysofcode/day-1-2/)
+
+### Progress: 14th and 15th March
+
+On Thursday 14th March I did not manage to complete my next day in the #100DaysofCode challenge, as it was a classroom day for my Apprenticeship programme. We talked about how to test a website – an important part of the website design process.
+
+**Link to blog**: [Notes from the classroom session on Testing](http://www.clairescoding.co.uk/apprenticeship-update/testing-for-web-development/)
+
+On the 15th I was writing up the blog, working on my testing plan for my project, and reading further into testing and tools to use.
+
+### Day 3: 16th March
+
+Completed the Responsive Web Design Challenges and working through the CSS Flexbox Challenges on FreeCodeCamp. Hope to finish the Flexbox Challenges section tomorrow.
+
+**Thoughts**: A lot was refresher of things I learned on Treehouse. 
+Previously I have always used em or px to size text. The fourth Responsive Web Design challenge introduced the concept of using viewport units for responsive typography, which was new to me and will be interesting to use in future.
+
+**Link to blog**: [Day 3](http://www.clairescoding.co.uk/100daysofcode/day-3/)
