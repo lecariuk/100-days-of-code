@@ -32,9 +32,17 @@ On the 15th I was writing up the blog, working on my testing plan for my project
 
 ### Day 3: 16th March
 
-Completed the Responsive Web Design Challenges and working through the CSS Flexbox Challenges on FreeCodeCamp. Hope to finish the Flexbox Challenges section tomorrow.
+**Today's Progress**: Completed the Responsive Web Design Challenges and working through the CSS Flexbox Challenges on FreeCodeCamp. Hope to finish the Flexbox Challenges section tomorrow.
 
 **Thoughts**: A lot was refresher of things I learned on Treehouse. 
 Previously I have always used em or px to size text. The fourth Responsive Web Design challenge introduced the concept of using viewport units for responsive typography, which was new to me and will be interesting to use in future.
 
 **Link to blog**: [Day 3](http://www.clairescoding.co.uk/100daysofcode/day-3/)
+
+### Day 4: 19th March
+
+**Today's Progress**: Completed the CSS Flexbox Challenges section on FreeCodeCamp.
+
+**Thoughts**: A lot of this has been a refresher of Treehouse. I don't remember the flex property so that was interesting to play around with (though of course it is possible that it was covered, and I've forgotten!).
+
+**Link to blog**: [Day 4](http://www.clairescoding.co.uk/100daysofcode/day-4/)
