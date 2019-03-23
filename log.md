@@ -53,5 +53,5 @@ Previously I have always used em or px to size text. The fourth Responsive Web D
 
 **Thoughts**: This is probably the first time I have ever created a page from scratch. I found this quite hard at first and panicked a bit (“I don’t remember anything!”) but I started with entering in the basic HTML of the page content, then added in the div-id‘s that were required for the challenge, then added the styling. I did look up certain elements from previous FreeCodeCamp lessons but overall I was able to do this on my own, just going through each step logically. It has passed all of the required elements for the certification and I am really pleased with how it turned out!
 
-**Links**: [Day 5](http://www.clairescoding.co.uk/100daysofcode/day-5/) [CodePen](https://codepen.io/lecariuk/pen/KEJWVO/)
+**Links**: [Day 5](http://www.clairescoding.co.uk/100daysofcode/day-5/) | [CodePen](https://codepen.io/lecariuk/pen/KEJWVO/)
 
