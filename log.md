@@ -55,3 +55,11 @@ Previously I have always used em or px to size text. The fourth Responsive Web D
 
 **Links**: [Day 5](http://www.clairescoding.co.uk/100daysofcode/day-5/) | [CodePen](https://codepen.io/lecariuk/pen/KEJWVO/)
 
+### Day 6: 24th March
+
+**Today's Progress**: Working on the Responsive Web Design Project, Build a Survey Form, on FreeCodeCamp.
+
+**Thoughts**: I worked on this for about three hours today. Currently it has 15 of 17 passes, so I’m almost there. I need to finish the CSS Styling as so far I have only added the background colour and fonts. I noticed that some of the code that FreeCodeCamp use in their example hasn’t been covered in any of the tutorials so far (I went back and double-checked in case I had missed something), so I had to search for solutions in FreeCodeCamp and W3 Schools.
+
+**Links**: [Day 6](http://www.clairescoding.co.uk/100daysofcode/day-6/) | [CodePen](https://codepen.io/lecariuk/pen/aMXxwp)
+
