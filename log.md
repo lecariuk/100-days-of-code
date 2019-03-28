@@ -63,3 +63,11 @@ Previously I have always used em or px to size text. The fourth Responsive Web D
 
 **Links**: [Day 6](http://www.clairescoding.co.uk/100daysofcode/day-6/) | [CodePen](https://codepen.io/lecariuk/pen/aMXxwp)
 
+### Day 7: 27th March
+
+**Today's Progress**: Carrying on with the Survey Form project on FreeCodeCamp – and learning about divs.
+
+**Thoughts**: I did a bit more work on this project today – I was getting a bit frustrated at the spacing around the form elements last night, and so asked a friend who is a UX Developer for help. He explained about using div to me, something that I had known about but hadn’t really quite ‘got’. His explanation was really helpful, and adding in extra div elements and seeing the difference they made really made this ‘click’. I feel like this was something I had used and heard about from FreeCodeCamp and Treehouse courses, but didn’t fully understand the purpose of until now.
+
+**Links**: [Day 7](http://www.clairescoding.co.uk/100daysofcode/day-7/) | [CodePen](https://codepen.io/lecariuk/pen/aMXxwp)
+
