@@ -71,3 +71,12 @@ Previously I have always used em or px to size text. The fourth Responsive Web D
 
 **Links**: [Day 7](http://www.clairescoding.co.uk/100daysofcode/day-7/) | [CodePen](https://codepen.io/lecariuk/pen/aMXxwp)
 
+### Day 8: 28th March
+
+**Today's Progress**: Completed the Survey Form challenge on FreeCodeCamp.
+
+**Thoughts**: So pleased to have finished this! I did find this quite challenging compared to the landing page (hence why it took longer) – especially getting all of the styling right. 
+
+I think if I ever wanted to do a longer contact form or survey like this again, I’d use a service like SurveyMonkey that is free and already set up to quickly make these sorts of forms, but it is useful to know how to do it from scratch – especially if, for example, a client wanted the form to be embedded on their website and styled in their own branding.
+
+**Links**: [Day 8](http://www.clairescoding.co.uk/100daysofcode/day-8/) | [CodePen](https://codepen.io/lecariuk/full/aMXxwp)
