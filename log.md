@@ -80,3 +80,12 @@ Previously I have always used em or px to size text. The fourth Responsive Web D
 I think if I ever wanted to do a longer contact form or survey like this again, I’d use a service like SurveyMonkey that is free and already set up to quickly make these sorts of forms, but it is useful to know how to do it from scratch – especially if, for example, a client wanted the form to be embedded on their website and styled in their own branding.
 
 **Links**: [Day 8](http://www.clairescoding.co.uk/100daysofcode/day-8/) | [CodePen](https://codepen.io/lecariuk/full/aMXxwp)
+
+### Day 9: 31st March
+
+**Today's Progress**: Started the Build a Product Landing Page project on FreeCodeCamp.
+
+**Thoughts**: I think I have made a good start on the project so far. I am using things I have learned from the previous two projects, the Tribute Page and the Survey Form, to complete it.
+I have also had to look up how to show the icons - it threw me a bit because they aren't image files. I have then looked up the tutorial on W3 Schools about using Font Awesome 5 Icons and I am going to try that tomorrow.
+
+**Links**: [Blog](http://www.clairescoding.co.uk/100daysofcode/day-9/) [CodePen](https://codepen.io/lecariuk/pen/XQWzQp)
