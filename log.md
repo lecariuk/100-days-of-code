@@ -89,3 +89,11 @@ I think if I ever wanted to do a longer contact form or survey like this again, 
 I have also had to look up how to show the icons - it threw me a bit because they aren't image files. I have then looked up the tutorial on W3 Schools about using Font Awesome 5 Icons and I am going to try that tomorrow.
 
 **Links**: [Blog](http://www.clairescoding.co.uk/100daysofcode/day-9/) | [CodePen](https://codepen.io/lecariuk/pen/XQWzQp)
+
+### Day 10: 1st April
+
+**Today's Progress** Worked on the Product Landing page project.
+
+**Thoughts**: Little bit of progress on the product landing page, added icons and played with the position: elements. Will do more on this tomorrow as it's still not displaying correctly.
+
+**Links**: [Blog](http://www.clairescoding.co.uk/100daysofcode/day-10/) | [CodePen](https://codepen.io/lecariuk/pen/XQWzQp)
