@@ -92,8 +92,28 @@ I have also had to look up how to show the icons - it threw me a bit because the
 
 ### Day 10: 1st April
 
-**Today's Progress** Worked on the Product Landing page project.
+**Today's Progress**: Worked on the Product Landing page project.
 
 **Thoughts**: Little bit of progress on the product landing page, added icons and played with the position: elements. Will do more on this tomorrow as it's still not displaying correctly.
 
 **Links**: [Blog](http://www.clairescoding.co.uk/100daysofcode/day-10/) | [CodePen](https://codepen.io/lecariuk/pen/XQWzQp)
+
+### Day 11 & 12: 5th & 6th April
+
+**Today's Progress**: Continuing  with my Product Landing Page project.
+
+**Thoughts**: I’ve made a few more changes to the code, but nothing major hence no updates recently. My progress has also been hindered a little bit as CodePen has been going down a lot this week due to a DDoS attack – I hope they get it sorted soon.
+
+I updated the top navigation, added styling to the form at the top, and updated the 'features' section so it's central to the page.
+
+I also fixed the grid, as I wasn't happy with how it was displaying, and managed to get the last two items to pass the User Story requirements - I'd mis-read the instructions!
+
+**Links**: [Blog](http://www.clairescoding.co.uk/100daysofcode/day-11-12/) | [CodePen](https://codepen.io/lecariuk/pen/XQWzQp)
+
+### Day 13: 7th April
+
+**Today's Progress**: More work on the Product Landing Page project.
+
+**Thoughts**: I added some styling to the video, and added the pricing table - happy with how that looks now!
+
+**Links**: [Blog](http://www.clairescoding.co.uk/100daysofcode/day-13/) | [CodePen](https://codepen.io/lecariuk/pen/XQWzQp)
